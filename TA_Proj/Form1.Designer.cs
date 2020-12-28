@@ -47,7 +47,7 @@
             // 
             this.player1label.Location = new System.Drawing.Point(77, 175);
             this.player1label.Name = "player1label";
-            this.player1label.Size = new System.Drawing.Size(59, 28);
+            this.player1label.Size = new System.Drawing.Size(80, 28);
             this.player1label.TabIndex = 0;
             this.player1label.Text = "Игрок 1";
             // 
@@ -55,7 +55,7 @@
             // 
             this.player2label.Location = new System.Drawing.Point(672, 175);
             this.player2label.Name = "player2label";
-            this.player2label.Size = new System.Drawing.Size(59, 28);
+            this.player2label.Size = new System.Drawing.Size(79, 28);
             this.player2label.TabIndex = 1;
             this.player2label.Text = "Игрок 2";
             // 
