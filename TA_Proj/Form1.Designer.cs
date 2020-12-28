@@ -163,7 +163,7 @@
             this.Controls.Add(this.player2label);
             this.Controls.Add(this.player1label);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Игра с двумя монетами";
             this.ResumeLayout(false);
         }
 
