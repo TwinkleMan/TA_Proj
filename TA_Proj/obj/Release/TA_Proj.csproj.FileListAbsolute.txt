@@ -1,0 +1,10 @@
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\bin\Release\TA_Proj.exe.config
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\bin\Release\TA_Proj.exe
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\bin\Release\TA_Proj.pdb
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.csprojAssemblyReference.cache
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.Form1.resources
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.Properties.Resources.resources
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.csproj.GenerateResource.cache
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.csproj.CoreCompileInputs.cache
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.exe
+C:\Users\Artem\RiderProjects\TA_Proj\TA_Proj\obj\Release\TA_Proj.pdb

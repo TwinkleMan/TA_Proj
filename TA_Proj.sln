@@ -12,5 +12,6 @@ Global
 		{791C42CB-CB81-4782-82A7-2524AC90C1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{791C42CB-CB81-4782-82A7-2524AC90C1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{791C42CB-CB81-4782-82A7-2524AC90C1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791C42CB-CB81-4782-82A7-2524AC90C1B1}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
